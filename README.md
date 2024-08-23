@@ -23,7 +23,7 @@ The repository that was just created for you is already set up with a simple fil
 
 To activate the website so you can visit it in a browser, click on the **Purdue-CS193/homework-0-\<Your Github Username\>** repository from your GitHub home page. On the top part of the repository page, click on the **Settings** tab. 
 
-Before you can create a GitHub Page, you must make your repository public. You can do this at the bottom of the Settings tab in the section labeled **Danger Zone**. Once there, find the option labeled 'Change repository visibility'. Click the 'Change visibility' button to the right and select the 'make public' option. Confirm it by typing the confirmation message, and you are good to go!
+Before you can create a GitHub Page, ensure that your repository is public by checking to the right of your repository name on the top left of the screen. You should see the word "Public".
 
 Scroll down to the section in Settings called **GitHub Pages**. Change the **Source** setting to the option called **master** and click save. At this point, you can navigate to `https://Purdue-CS193.github.io/homework-0-<Your Github Username>/` to view the website you just activated!
 
